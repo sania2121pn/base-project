@@ -10,3 +10,4 @@ function showBaseActivity() {
 }
 
 showBaseActivity(); Add simple Base activity tracker script
+console.log("Documenting experiments on Base.");
